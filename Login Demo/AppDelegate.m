@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  Login Demo
+//  Singing Face App
 //
 //  Created by Katherine Fang on 5/26/15.
 //  Copyright (c) 2015 Firebase. All rights reserved.

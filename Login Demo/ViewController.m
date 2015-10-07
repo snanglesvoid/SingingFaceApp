@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  Login Demo
+//  Singing Face App
 //
 //  Created by Jonny Dimond on 8/11/14.
 //  Copyright (c) 2014 Firebase. All rights reserved.
